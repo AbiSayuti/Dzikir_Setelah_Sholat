@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		AC95FAB51FD54F20005E5960 /* Jodoh-4-500x280.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AC95FAB41FD54F1F005E5960 /* Jodoh-4-500x280.jpg */; };
 		AC9FD1A71FC70DB900B40B1A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC9FD1A61FC70DB900B40B1A /* AppDelegate.swift */; };
 		AC9FD1A91FC70DB900B40B1A /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC9FD1A81FC70DB900B40B1A /* ViewController.swift */; };
 		AC9FD1AC1FC70DB900B40B1A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AC9FD1AA1FC70DB900B40B1A /* Main.storyboard */; };
@@ -37,6 +38,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		AC95FAB41FD54F1F005E5960 /* Jodoh-4-500x280.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Jodoh-4-500x280.jpg"; sourceTree = "<group>"; };
 		AC9FD1A31FC70DB900B40B1A /* Dzikir Ba'da Sholat.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Dzikir Ba'da Sholat.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		AC9FD1A61FC70DB900B40B1A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		AC9FD1A81FC70DB900B40B1A /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -107,6 +109,7 @@
 				AC9FD1A81FC70DB900B40B1A /* ViewController.swift */,
 				AC9FD1AA1FC70DB900B40B1A /* Main.storyboard */,
 				AC9FD1AD1FC70DB900B40B1A /* Assets.xcassets */,
+				AC95FAB41FD54F1F005E5960 /* Jodoh-4-500x280.jpg */,
 				AC9FD1AF1FC70DB900B40B1A /* LaunchScreen.storyboard */,
 				AC9FD1B21FC70DB900B40B1A /* Info.plist */,
 				AC9FD1D41FC7101C00B40B1A /* SubhanallahViewController.swift */,
@@ -244,6 +247,7 @@
 				AC9FD1B11FC70DB900B40B1A /* LaunchScreen.storyboard in Resources */,
 				AC9FD1AE1FC70DB900B40B1A /* Assets.xcassets in Resources */,
 				AC9FD1AC1FC70DB900B40B1A /* Main.storyboard in Resources */,
+				AC95FAB51FD54F20005E5960 /* Jodoh-4-500x280.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
